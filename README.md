@@ -1,3 +1,5 @@
+# Next.js Starter Project (Tailwind, Typescript, ShadCN UI)
+
 This is a starter project for building web applications using Next.js, TypeScript, TailwindCSS, and Shadcn UI. This project provides a solid foundation with a well-structured codebase, allowing you to quickly get started with your development.
 
 ## Features
